@@ -3,10 +3,10 @@ import React from "react";
 
 const TopAgentCard = () => {
   return (
-    <Stack className='top-agent-card'>
-      <img src='/img/profile/girl.svg' alt='' />
+    <Stack className="top-agent-card">
+      <img src="/img/profile/girl.svg" alt="" />
 
-      <strong>Lucy</strong>
+      <strong>Rose</strong>
       <span>Agent</span>
     </Stack>
   );
