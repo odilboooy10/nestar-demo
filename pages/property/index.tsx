@@ -38,7 +38,7 @@ const PropertyList: NextPage = () => {
                 />
               </Stack>
               <Stack className="total-result">
-                <Typography>Total 6 properties available</Typography>
+                <Typography>Total 6 Properties Available</Typography>
               </Stack>
             </Stack>
           </Stack>
